@@ -1,2 +1,4 @@
-# AnalisisExcel
-En este proyecto se analiza una base de datos utilizando Microsoft Excel
+# CONTEXTO
+  Es un conjunto de datos de información detallada sobre una base de datos en Excel
+# Objetivo
+  Transformar y visualizar datos 
